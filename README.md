@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adu Daniel</h1>
 <h3 align="center">A passionate frontend developer from Lagos Nigeria</h3>
-<img align="right" alt='coding' width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FqJ5evVs-_uUAAAAC%2Fcoding.gif&tbnid=MwozBsUeOfn96M&vet=10CAIQxiAoAGoXChMIkJ2P08XIgAMVAAAAAB0AAAAAEBY..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&docid=cR54yvEmE2nqmM&w=498&h=249&itg=1&q=fun%20coding%20gifs&ved=0CAIQxiAoAGoXChMIkJ2P08XIgAMVAAAAAB0AAAAAEBY">
+<img align="right" alt='coding' width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FqJ5evVs-_uUAAAAC%2Fcoding.gif&tbnid=MwozBsUeOfn96M&vet=10CAIQxiAoAGoXChMIkJ2P08XIgAMVAAAAAB0AAAAAEBY..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&docid=cR54yvEmE2nqmM&w=498&h=249&itg=1&q=fun%20coding%20gifs&ved=0CAIQxiAoAGoXChMIkJ2P08XIgAMVAAAAAB0AAAAAEBY"/>
 <p align="left"> <a href="https://twitter.com/marvel80726206" target="blank"><img src="https://img.shields.io/twitter/follow/marvel80726206?logo=twitter&style=for-the-badge" alt="marvel80726206" /></a> </p>
 
 - 🔭 I’m currently working on [AI powered chatbot](https://github.com/AduDanielTech/chatbot-website)
