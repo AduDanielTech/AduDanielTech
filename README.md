@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adudaniel097@gmail.com**
 
-- 📄 Know about my experiences [http://adudaniel.42web.io/?i=1](http://adudaniel.42web.io/?i=1)
+- 📄 Know about my experiences [https://adu-daniel-fhejs7g.vercel.app/](https://adu-daniel-fhejs7g.vercel.app/)
 
 - ⚡ Fun fact **I know how to play the clarinet**
 
